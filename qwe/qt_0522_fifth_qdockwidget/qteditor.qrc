@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/center.png</file>
+        <file>build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/copy.png</file>
+        <file>build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/cut.png</file>
+        <file>build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/justify.png</file>
+        <file>build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/left.png</file>
+        <file>build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/new.png</file>
+        <file>build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/open.png</file>
+        <file>build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/paste.png</file>
+        <file>build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/print.png</file>
+        <file>build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/quit.png</file>
+        <file>build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/redo.png</file>
+        <file>build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/right.png</file>
+        <file>build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/save.png</file>
+        <file>build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/saveas.png</file>
+        <file>build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/undo.png</file>
+        <file>build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/zoomin.png</file>
+        <file>build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/zoomout.png</file>
+    </qresource>
+</RCC>
